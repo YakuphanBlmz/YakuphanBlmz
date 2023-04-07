@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **C#**
 
-- 📫 Contect Me **yakuphan95@gmail.com**
+- 📫 Contect with Me **yakuphan95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
