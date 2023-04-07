@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](www.mizzteam.com)
-<h1 align="center">Hi <image alt="Waving Hand"	width="50" src="https://user-content.gitlab-static.net/9aca91aae28ea646c11cae30ce417a6d2af57dd1/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e6978696e37322f6e6978696e37322f6d61737465722f776176652e676966"> , I'm Yakuphan Bilmez</h1>
+<h1 align="center">Hi <image alt="Waving Hand"	width="50" src="https://i.pinimg.com/originals/46/34/75/463475c0c0ad902af0e62671b463f4bc.gif"> , I'm Yakuphan Bilmez</h1>
 <h3 align="center">Software Engineering Student in İstanbul</h3>
 <image align="right" alt="Coding"	 width="300" src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif">
 
