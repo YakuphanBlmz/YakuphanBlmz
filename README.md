@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi <image alt="Waving Hand"	width="50" src="https://i.pinimg.com/originals/46/34/75/463475c0c0ad902af0e62671b463f4bc.gif"> , I'm Yakuphan Bilmez</h1>
 <h3 align="center">Software Engineering Student in İstanbul</h3>
 <image align="right" alt="Coding"	 width="300" src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif">
