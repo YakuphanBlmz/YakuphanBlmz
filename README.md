@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student in İstanbul</h3>
 <image align="right" alt="Coding"	 width="300" src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif">
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **ML,NLP, Computer Vision & Expert Systems**
 
 - 📫 Contect Me **yakuphan95@gmail.com**
 
