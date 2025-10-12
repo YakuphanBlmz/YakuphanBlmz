@@ -1,43 +1,40 @@
-# Workflow'un adı (Actions sekmesinde bu isimle görünecek)
+# Workflow'un adı
 name: Generate Snake Animation
 
-# Bu kodun ne zaman çalışacağını belirler
+# Tetikleyiciler
 on:
-  # Her günün başlangıcında otomatik olarak çalıştır (00:00 UTC)
   schedule:
     - cron: "0 0 * * *"
-  # Actions sekmesinden manuel olarak çalıştırmayı sağlar
   workflow_dispatch:
 
 # Yapılacak işler
 jobs:
   generate:
+    # YENİ EKLENEN KISIM BURASI
+    # Bu işin (job) deponun içeriğine yazma izni olduğunu belirtir.
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
-      # 1. Adım: Deponuzun içeriğini indirir
+      # 1. Adım: Deponun içeriğini indirir
       - uses: actions/checkout@v3
 
       # 2. Adım: Yılan animasyonunu oluşturur
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # GitHub kullanıcı adınız (otomatik olarak alınır)
           github_user_name: ${{ github.repository_owner }}
-          
-          # Oluşturulacak dosyalar ve temaları
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-gruvbox.gif?palette=github-gruvbox-dark
 
-      # 3. Adım: Oluşturulan dosyaları deponuza kaydeder
+      # 3. Adım: Oluşturulan dosyaları 'output' branch'ine kaydeder
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # Oluşturulan dosyaların bulunduğu klasör
           build_dir: dist
-          # Değişikliklerin hangi branch'e gönderileceği
           target_branch: output
         env:
-          # DÜZELTME BURADA: Token'ı 'with:' yerine 'env:' bloğuna taşıdık.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
