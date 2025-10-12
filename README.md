@@ -95,7 +95,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YakuphanBlmz/YakuphanBlmz/output/github-snake-dark-alt.gif" alt="Snake animation from my GitHub contributions" />
+  <img src="https://raw.githubusercontent.com/YakuphanBlmz/YakuphanBlmz/output/github-snake.svg" alt="Snake animation from my GitHub contributions" />
 </div>
 
 
