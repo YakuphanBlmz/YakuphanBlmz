@@ -94,6 +94,10 @@
 [![](https://visitcount.itsvg.in/api?id=YakuphanBlmz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YakuphanBlmz/YakuphanBlmz/output/github-snake-gruvbox.gif" alt="Snake animation from my GitHub contributions" />
+</div>
+
 
   ## 💰 You can help me by Donating
 
