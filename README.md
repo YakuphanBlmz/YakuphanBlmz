@@ -54,7 +54,47 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
 
+
+
+
+#  GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YakuphanBlmz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="Yakuphan's GitHub Stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YakuphanBlmz&theme=gruvbox&hide_border=false" alt="Yakuphan's GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakuphanBlmz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Yakuphan's Top Languages" />
+</div>
+
+
+
+## 🏆 GitHub Trophies
+<div align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=YakuphanBlmz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="Yakuphan's GitHub Trophies" />
+</div>
+
+
+### ✍️ Random Dev Quote
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&quote=Talk%20is%20cheap.%20Show%20me%20the%20code." alt="Dev Quote" />
+</div>
+
+
+
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=YakuphanBlmz&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Yakuphan's Top Contributed Repos" />
+</div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=YakuphanBlmz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+  ## 💰 You can help me by Donating
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com/yakuphan](https://buymeacoffee.com/yakuphan)) 
