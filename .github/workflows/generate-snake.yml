@@ -14,10 +14,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # 1. Adım: Deponuzun içeriğini indirir, böylece yeni dosyalar eklenebilir.
+      # 1. Adım: Deponuzun içeriğini indirir
       - uses: actions/checkout@v3
 
-      # 2. Adım: Yılan animasyonunu oluşturur.
+      # 2. Adım: Yılan animasyonunu oluşturur
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -25,14 +25,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           # Oluşturulacak dosyalar ve temaları
-          # İstediğiniz kadar farklı tema ve renkte dosya oluşturabilirsiniz.
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-gruvbox.gif?palette=github-gruvbox-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # 3. Adım: Oluşturulan dosyaları deponuza kaydeder (commit'ler ve push'lar).
+      # 3. Adım: Oluşturulan dosyaları deponuza kaydeder
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -40,5 +38,6 @@ jobs:
           build_dir: dist
           # Değişikliklerin hangi branch'e gönderileceği
           target_branch: output
-          # Commit'i yapacak olan GitHub Actions token'ı
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          # DÜZELTME BURADA: Token'ı 'with:' yerine 'env:' bloğuna taşıdık.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
