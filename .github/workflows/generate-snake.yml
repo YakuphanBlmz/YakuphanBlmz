@@ -3,8 +3,16 @@ name: Generate Snake Animation
 
 # Tetikleyiciler
 on:
+  #  main branch'ine her push yapıldığında çalışır
+  push:
+    branches:
+      - main
+  
+  # Her günün başlangıcında otomatik olarak çalışır (00:00 UTC)
   schedule:
     - cron: "0 0 * * *"
+    
+  # Actions sekmesinden manuel olarak çalıştırmayı sağlar
   workflow_dispatch:
 
 # Yapılacak işler
@@ -15,10 +23,8 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      # 1. Adım: Deponun içeriğini indirir
+      # Adım 1, 2 ve 3... (öncekiyle aynı)
       - uses: actions/checkout@v3
-
-      # 2. Adım: Yılan animasyonunu oluşturur
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -26,6 +32,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            # DÜZELTME BURADA: 'github-dark' paletini kullanarak koyu tema elde ediyoruz
-            # İsterseniz kendi sarı/siyah renk kodlarınızı 'color_snake' ve 'color_dots' ile de belirleyebilirsiniz
             dist/github-snake-dark-alt.gif?palette=github-dark&color_snake=#fabd2f&color_dots=#454545,#665c54,#bdae93,#ebdbb2,#fbf1c7
+      - name: Push changes
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
