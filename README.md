@@ -1,9 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=D90000&width=435&lines=HI%2C++I'M++YAKUPHAN+BILMEZ" alt="Typing SVG" /></a>
-  <image alt="Waving Hand"	width="50" src="https://i.pinimg.com/originals/46/34/75/463475c0c0ad902af0e62671b463f4bc.gif">
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=D90000&width=435&lines=HI%2C++I'M++YAKUPHAN+BILMEZ" alt="Typing SVG" /></a>
+  <img alt="Waving Hand" width="50" src="https://i.pinimg.com/originals/46/34/75/463475c0c0ad902af0e62671b463f4bc.gif">
+</div>
+    
 <h3 align="center">Software Engineer</h3>
 <image align="right" alt="Coding"	 width="300" src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif">
 
