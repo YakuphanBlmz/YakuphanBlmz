@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Australia+Tasmania&pause=1000&color=D90000&width=253&lines=HI%2C++I'M++YAKUPHAN+BILMEZ" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=D90000&width=285&lines=HI%2C++I'M++YAKUPHAN+BILMEZ" alt="Typing SVG" /></a>
 </div>
     
 <h3 align="center">Software Engineer</h3>
