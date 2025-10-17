@@ -75,7 +75,7 @@
 </div>
 
 
-### ✍️ Random Dev Quote
+### ✍️ My Dev Quote
 <br>
 
 <div align="center">
