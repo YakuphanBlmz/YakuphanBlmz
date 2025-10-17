@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi <image alt="Waving Hand"	width="50" src="https://i.pinimg.com/originals/46/34/75/463475c0c0ad902af0e62671b463f4bc.gif"></h1>
 <div align="center">
- <a href="https://github.com/muffafa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+MUFFAFA+%F0%9F%98%BC;MUHAMMED+MUSTAFA+SAVAR+%F0%9F%A4%93" alt="Typing SVG" />
+ <a href="https://github.com/YakuphanBlmz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+YAKUPHAN+%F0%9F%98%BC;YAKUPHAN+BİLMEZ+%F0%9F%A4%93" alt="Typing SVG" />
  </a>
 </div>
 <h3 align="center">Software Engineer</h3>
