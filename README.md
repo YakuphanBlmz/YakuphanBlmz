@@ -5,6 +5,13 @@
 </div>
     
 <h3 align="center">Software Engineer</h3>
+
+<!-- Social media buttons -->
+<br/>
+<a href="https://www.linkedin.com/in/yakuphan-bilmez/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <image align="right" alt="Coding"	 width="300" src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif">
 
 - 🔭 I’m currently working on **ML,NLP, Computer Vision & Expert Systems**
