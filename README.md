@@ -73,7 +73,7 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YakuphanBlmz&theme=gruvbox&hide_border=false&hide_border=true" />
     <br/>
-  <img src="https://komarev.com/ghpvc/?username=YakuphanBlmz&label=Profile%20views&color=0e75b7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YakuphanBlmz&label=Profile%20views&color=0e75b8&style=flat" />
 </div>
 
 
