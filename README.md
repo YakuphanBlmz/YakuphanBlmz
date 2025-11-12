@@ -70,13 +70,14 @@
 
 #  GitHub Stats:
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=YakuphanBlmz&label=Profile%20views&color=0e75b8&style=flat" />
   <img src="https://github-readme-stats.vercel.app/api?username=YakuphanBlmz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="Yakuphan's GitHub Stats" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=YakuphanBlmz&theme=gruvbox&hide_border=false" alt="Yakuphan's GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakuphanBlmz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Yakuphan's Top Languages" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YakuphanBlmz&theme=gruvbox&hide_border=false&hide_border=true" />
     <br/>
-  <img src="https://komarev.com/ghpvc/?username=YakuphanBlmz&label=Profile%20views&color=0e75b8&style=flat" />
+  
 </div>
 
 
