@@ -72,7 +72,6 @@
 <div align="center">
     <br>
         <img src="https://komarev.com/ghpvc/?username=YakuphanBlmz&label=Profile%20views&color=0e75b8&style=flat" />
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYakuphanBlmz&count_bg=%230E75B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true"/>
     <br/>
     <br><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=YakuphanBlmz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="Yakuphan's GitHub Stats" /><br/>
