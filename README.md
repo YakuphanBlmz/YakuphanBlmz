@@ -6,7 +6,7 @@
     
 <h3 align="center">Software Engineer</h3>
 
-
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YakuphanBlmz/YakuphanBlmz&title=Profile%20Views)
 
 <image align="right" alt="Coding"	 width="300" src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif">
 
