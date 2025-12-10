@@ -74,6 +74,7 @@
     <br/>
     <br><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=YakuphanBlmz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="Yakuphan's GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YakuphanBlmz&theme=gruvbox" alt="Yakuphan's GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=YakuphanBlmz&theme=gruvbox&hide_border=false" alt="Yakuphan's GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakuphanBlmz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Yakuphan's Top Languages" />
   <br>
